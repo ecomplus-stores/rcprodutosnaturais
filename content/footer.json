@@ -39,7 +39,7 @@
     "santander": false,
     "mastercard": true,
     "citibank": false,
-    "mais": false,
+    "mais": true,
     "itau": true
   },
   "credits": ""
