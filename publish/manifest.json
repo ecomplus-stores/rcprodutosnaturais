@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a79f69c2f3c950c3a9beb50bc8cff380.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.fadcc78850eddb6652ba21850283c4c3.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.b5303d51a3c9a6ddde3d3fd2feb273ef.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.f189a177f8f3056834faad27391d58fa.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.8333455e8f7e841ff02ef190d4fbee84.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "rcprodutosnaturais",
+  "short_name": "rcprodutosnaturais",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "BEM-VINDO A PAGINA RCPRODUTOSNATURAIS! AQUI VOCÊ VAI ENCONTRAR TODOS PRODUTOS NATURAIS PARA SUA SAÚDE,ERVAS MEDICINAIS EM GERAL, Há 20 anos trabalhando com Produtos Naturais, estamos sempre trabalhando para a cada dia evoluir e levar o bem estar e saúde para nossos clientes. Incrível Loja de Produtos Naturais na Cidade de São Paulo\n\n",
+  "background_color": "#ffffff",
+  "theme_color": "#0c0d0c"
+}
